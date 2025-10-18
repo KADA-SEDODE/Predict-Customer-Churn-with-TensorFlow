@@ -1,6 +1,8 @@
 # Predict-Customer-Churn-with-TensorFlow
+
 Predict Customer Churn with TensorFlow
-📌 Description
+
+# 📌 Description
 
 Ce projet illustre l’utilisation de TensorFlow (tf.keras) pour construire, entraîner et évaluer un modèle de Deep Learning de prédiction du churn client.
 L’objectif principal n’est pas d’obtenir la meilleure performance possible, mais de tester et comprendre l’utilisation complète de TensorFlow : préparation des données, définition du modèle, entraînement, suivi avec TensorBoard et sauvegarde pour un éventuel déploiement.
