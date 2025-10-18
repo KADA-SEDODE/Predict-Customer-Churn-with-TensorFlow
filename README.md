@@ -17,7 +17,7 @@ Visualization : Matplotlib, Seaborn, TensorBoard
 
 🧩 Étapes du projet
 
-* 1️⃣ Préparation des données *
+# 1️⃣ Préparation des données 
 
 Chargement du dataset Churn.csv depuis Google Drive
 
